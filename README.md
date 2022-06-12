@@ -6,6 +6,10 @@ Projeto presente no [Tinkercad](https://www.tinkercad.com/things/8HeKKI0H8wm-rgb
 
 ##
 
+Aqui utilizarei um Led RGB cátodo comum, portanto fique atento ao tipo deligação do seu led!
+
+![image](https://user-images.githubusercontent.com/95356877/173210946-01bbd988-d6d3-4d0e-a032-e0bfa6492279.png)
+
 👩‍💻 Explicação código:
 
 - Inicialmente, defini os pinos a serem usados e criei uma variável do tipo String que receberá a cor desejada:
